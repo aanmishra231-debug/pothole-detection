@@ -118,7 +118,5 @@ cv2.imshow("Blurred",blur)
 cv2.imshow("Edges",edge)
 cv2.imshow("dilated",dilated)
 
-
-
 cv2.waitKey(0)
 cv2.destroyAllWindows()
